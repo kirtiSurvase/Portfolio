@@ -1,0 +1,73 @@
+ol.skills{
+    padding-left: 18px;
+}
+
+.profile{
+    background-image: url(images/intro6.jpg);
+    background-repeat: no-repeat;
+    width:100%;
+    background-size: cover;
+}
+.portfolioImage{
+padding: 40px;
+height: 700px;
+}
+.button{
+margin-top:50px;
+background-color: burlywood;
+}
+.navbar-nav{
+    padding-left: 15px;
+}
+.nav-item{
+    padding-right: 55px;
+    font-size: 22px;
+    
+}
+#home{
+    padding-right: 0px;
+    /* text-align: center; */
+    padding: 85px;
+    font-size: 23px;
+    font-weight: 700;
+   
+}
+ #skill, #contact{
+    text-align: center;
+    background-image: url(images/program.png);
+    background-color: white;
+    font-size: 22px;
+    height:500px;
+}
+#contact{
+    background-image: url(images/AboutMe1.jpg);
+    background-repeat: no-repeat;
+    height:500px;
+}
+#qualification{
+    text-align: center;
+    background-image: url(images/Q.jpg);
+    background-color: white;
+    font-size: 22px;
+    height: 750px;
+}
+h1{
+    color:#fff !important;
+    padding:40px;
+}
+.AboutMe, #about {
+    font-size: 22px;
+    text-align: center;
+    background-image: url(images/AboutMe1.jpg);
+    height: 400px;
+    /* font-size: 22px; */
+    line-height: 56px;
+}
+.Photo1{
+text-align: center;
+
+}
+.rounded-circle{
+    border-radius:50% !important ;
+    background-image: url(Images/Photo2.jpg);
+}
